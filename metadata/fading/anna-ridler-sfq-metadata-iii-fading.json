@@ -1,0 +1,20 @@
+{
+    "name": "Slowly Fading Quietly III",
+    "description": "Slowly Fading Quietly III",
+    "external_url": "http://slowlyfadingquietly.xyz/",
+    "image": "http://slowlyfadingquietly.xyz/iii.svg",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Anna Ridler"
+        },
+        {
+            "trait_type": "Year Created",
+            "value": "2024"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Phygital"
+        }
+    ]
+}
